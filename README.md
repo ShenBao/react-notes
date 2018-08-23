@@ -18,6 +18,8 @@
 - [声明周期函数](./react/12.md)
 - [本地数据mock](./react/13.md)
 - [React中动画](./react/14.md)
+- React中的css模块化、SCSS、LESS等
+- 
 
 ## Redux
 
@@ -30,8 +32,14 @@
 ## Router
 
 
+
 ## other
 
+- dvajs
+- ant.design
+- ANT DESIGN PRO: 开箱即用的中台前端/设计解决方案
+- https://github.com/davezuko/react-redux-starter-kit
+- https://github.com/react-boilerplate/react-boilerplate
 
 
 ## create-react-app
