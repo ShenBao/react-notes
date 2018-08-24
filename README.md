@@ -1,6 +1,5 @@
 # react-notes
 
-
 ## React
 
 - [准备](./react/01.md)
@@ -12,7 +11,6 @@
 - [组件化](./react/07.md)
 - [React developer tools 安装及使用](./react/08.md)
 - [PropTypes与DefaultProps的应用](./react/09.md)
-- [React的虚拟DOM、DIFF算法](./react/09.md)
 - [React的虚拟DOM、DIFF算法](./react/10.md)
 - [ref的使用](./react/11.md)
 - [声明周期函数](./react/12.md)
