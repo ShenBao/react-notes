@@ -39,6 +39,7 @@
 - https://github.com/davezuko/react-redux-starter-kit
 - https://github.com/react-boilerplate/react-boilerplate
 
+- bizcharts 数据可视化解决方案： http://bizcharts.net/index
 
 ## create-react-app
 
