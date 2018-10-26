@@ -1,45 +1,85 @@
 # react-notes
 
-## React
+## 相关文档
 
-- [准备](./react/01.md)
-- [React介绍及环境搭建](./react/02.md)
-- [JSX的使用及原理](./react/03.md)
-- [render 方法及Component](./react/04.md)
-- [React中的响应式设计思想](./react/05.md)
-- [事件](./react/06.md)
-- [组件化](./react/07.md)
-- [React developer tools 安装及使用](./react/08.md)
-- [PropTypes与DefaultProps的应用](./react/09.md)
-- [React的虚拟DOM、DIFF算法](./react/10.md)
-- [ref的使用](./react/11.md)
-- [声明周期函数](./react/12.md)
-- [本地数据mock](./react/13.md)
-- [React中动画](./react/14.md)
-- React中的css模块化、SCSS、LESS等
-- 
+** React
+- [React 官方文档](https://reactjs.org/)
+- [React 中文文档](https://react.docschina.org/)
 
-## Redux
+** react-router
+- [react-router 官方文档](https://reacttraining.com/react-router/)
+- [react-router 中文文档](https://react-router.docschina.org/)
 
-- [Redux接入](./redux/01.md)
-- [Redux-thunk、Redux-saga、React-Redux](./redux/02.md)
-- [Immutable、redux-immutable](./redux/03.md)
-- [使用combineReducers完成对数据的拆分管理](./redux/04.md)
+** Redux
+- [Redux 官方文档](https://redux.js.org/)
+- [Redux 中文文档](https://cn.redux.js.org/)
 
-## Router
+** MobX
+- [MobX 官方文档](https://mobx.js.org/)
+- [MobX 中文文档](https://cn.mobx.js.org/)
+
+** React Native
+- [React Native 官方文档](https://facebook.github.io/react-native/)
+- [React Native 中文网](https://reactnative.cn/)
+
+** React VR
+- [React VR 官方文档](https://facebook.github.io/react-360/)
+- [React VR 中文网](http://www.vr-react.com/#/)
+
+** 工具
+
+- [create-react-app](https://facebook.github.io/create-react-app/)
+- [React developer tools](https://github.com/facebook/react-devtools)
+- [Redux DevTools](https://github.com/reduxjs/redux-devtools)
+
+** Redux异步方案
+
+- [react-redux](https://github.com/reduxjs/react-redux)
+- [Redux-thunk](https://github.com/reduxjs/redux-thunk): 指路先驱，Redux作者Dan写的中间件
+- [Redux-saga](https://github.com/reduxjs/redux-thunk)：难、而美
+- [redux-immutable](https://github.com/redux-saga/redux-saga)
+- [redux-promise](https://github.com/acdlite/redux-promise): 瘦身过头, 社区出现的方案
+- [redux-promise-middleware](https://github.com/pburtchaell/redux-promise-middleware): 相比redux-promise，采取了更为温和和渐进式的思路
+
+- [redux-actions](https://github.com/redux-utilities/redux-actions)
+- [redux-observable](https://github.com/redux-observable/redux-observable):Redux-Observable是配合RxJS使用的一个框架
+
+** 
+- [react-transition-group](https://reactcommunity.org/react-transition-group/)
+- [styled-components](https://www.styled-components.com/)
+- [immutable-js](https://facebook.github.io/immutable-js/)
+
+** 
+
+- [awesome-react](https://github.com/enaqx/awesome-react)
+- [awesome-react-components](https://github.com/brillout/awesome-react-components)
+- [awesome-redux](https://github.com/xgrommx/awesome-redux)
+- [React 中文](http://react-china.org/)
+- [React 中文索引](http://nav.react-china.org/)
 
 
-## other
+** 相关
+- [React.js 小书
+](http://huziketang.mangojuice.top/books/react/)
+- [React 模式](http://sangka-z.com/react-in-patterns-cn/)
 
-- dvajs
-- ant.design
-- ANT DESIGN PRO: 开箱即用的中台前端/设计解决方案
-- https://github.com/davezuko/react-redux-starter-kit
-- https://github.com/react-boilerplate/react-boilerplate
 
-- bizcharts 数据可视化解决方案： http://bizcharts.net/index
+## 生态
 
-## create-react-app
+- [preact](https://preactjs.com/)：React 的 3kb 轻量化方案，拥有同样的 ES6 API
 
-- [create-react-app](./create-react-app/README.md)
+- [dvajs](https://dvajs.com/)：基于 React 和 redux，具有 elm 风格的轻量级框架
+
+- [ant.design](https://ant.design/index-cn)：阿里巴巴 - 企业级的 UI 设计语言和 React 实现
+- [Ant Design Mobile](https://mobile.ant.design/index-cn)：一个基于 Preact / React / React Native 的 UI 组件库
+- [element-react](https://elemefe.github.io/element-react/#/zh-CN/quick-start)：饿了么 - Element UI 的 React 实现
+- [Zent](https://youzan.github.io/zent/zh/guides/install)：有赞 PC 端 WebUI 规范的 React 实现
+- [pile Mobile](https://didi.github.io/pile.js/#/?_k=iycbqk)：滴滴 - 移动端 React 组件库
+
+- [ant design pro](https://pro.ant.design/index-cn): 开箱即用的中台前端/设计解决方案
+
+- [react-redux-starter-kit](https://github.com/davezuko/react-redux-starter-kit)
+- [react-boilerplate](https://github.com/react-boilerplate/react-boilerplate)
+
+- [bizcharts](http://bizcharts.net/index): 数据可视化解决方案
 
