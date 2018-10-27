@@ -32,6 +32,9 @@
 - [React developer tools](https://github.com/facebook/react-devtools)
 - [Redux DevTools](https://github.com/reduxjs/redux-devtools)
 
+- [react-starter-kit](https://github.com/bodyno/react-starter-kit)
+
+
 ** Redux异步方案
 
 - [react-redux](https://github.com/reduxjs/react-redux)
@@ -50,7 +53,6 @@
 - [immutable-js](https://facebook.github.io/immutable-js/)
 
 ** 
-
 - [awesome-react](https://github.com/enaqx/awesome-react)
 - [awesome-react-components](https://github.com/brillout/awesome-react-components)
 - [awesome-redux](https://github.com/xgrommx/awesome-redux)
@@ -70,16 +72,30 @@
 
 - [dvajs](https://dvajs.com/)：基于 React 和 redux，具有 elm 风格的轻量级框架
 
+** UI
+- [material-ui](https://www.material-ui.com/)
 - [ant.design](https://ant.design/index-cn)：阿里巴巴 - 企业级的 UI 设计语言和 React 实现
 - [Ant Design Mobile](https://mobile.ant.design/index-cn)：一个基于 Preact / React / React Native 的 UI 组件库
 - [element-react](https://elemefe.github.io/element-react/#/zh-CN/quick-start)：饿了么 - Element UI 的 React 实现
 - [Zent](https://youzan.github.io/zent/zh/guides/install)：有赞 PC 端 WebUI 规范的 React 实现
 - [pile Mobile](https://didi.github.io/pile.js/#/?_k=iycbqk)：滴滴 - 移动端 React 组件库
 
+** 
 - [ant design pro](https://pro.ant.design/index-cn): 开箱即用的中台前端/设计解决方案
 
 - [react-redux-starter-kit](https://github.com/davezuko/react-redux-starter-kit)
 - [react-boilerplate](https://github.com/react-boilerplate/react-boilerplate)
 
+** 数据可视化
+- [antv](https://antv.alipay.com/zh-cn/g2/3.x/tutorial)
 - [bizcharts](http://bizcharts.net/index): 数据可视化解决方案
+- [viserjs](https://viserjs.github.io/docs.html#/viser/guide/installation)
+- [d3](https://github.com/d3/d3)
+- [react-d3-website](https://reactiva.github.io/react-d3-website/)
+- [react-d3-components](https://github.com/codesuki/react-d3-components)
+- [echarts](https://github.com/apache/incubator-echarts)
+- [echarts-for-react](https://github.com/hustcc/echarts-for-react)
+- [incubator-echarts](https://github.com/apache/incubator-echarts)
+- [react-highcharts](https://github.com/kirjs/react-highcharts)
+
 
