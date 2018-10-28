@@ -35,7 +35,7 @@
 - [react-starter-kit](https://github.com/bodyno/react-starter-kit)
 
 
-** Redux异步方案
+** Redux 中间件或工具
 
 - [react-redux](https://github.com/reduxjs/react-redux)
 - [Redux-thunk](https://github.com/reduxjs/redux-thunk): 指路先驱，Redux作者Dan写的中间件
@@ -43,6 +43,9 @@
 - [redux-immutable](https://github.com/redux-saga/redux-saga)
 - [redux-promise](https://github.com/acdlite/redux-promise): 瘦身过头, 社区出现的方案
 - [redux-promise-middleware](https://github.com/pburtchaell/redux-promise-middleware): 相比redux-promise，采取了更为温和和渐进式的思路
+
+- [redux-undo](https://github.com/omnidan/redux-undo)
+- [react-redux-form](https://github.com/davidkpiano/react-redux-form)
 
 - [redux-actions](https://github.com/redux-utilities/redux-actions)
 - [redux-observable](https://github.com/redux-observable/redux-observable):Redux-Observable是配合RxJS使用的一个框架
@@ -61,8 +64,7 @@
 
 
 ** 相关
-- [React.js 小书
-](http://huziketang.mangojuice.top/books/react/)
+- [React.js 小书](http://huziketang.mangojuice.top/books/react/)
 - [React 模式](http://sangka-z.com/react-in-patterns-cn/)
 
 
@@ -98,4 +100,10 @@
 - [incubator-echarts](https://github.com/apache/incubator-echarts)
 - [react-highcharts](https://github.com/kirjs/react-highcharts)
 
+
+## my book
+
+- 《深入React技术栈》
+- 《React前端技术与工程实践》
+- 《React设计模式与最佳实践》
 

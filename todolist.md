@@ -16,13 +16,14 @@
 - <HashRouter>
 - <Link>
 - <NavLink>
-- <Prompt>
-- <MemoryRouter>
-- <Redirect>
 - <Route>
 - <Router>
-- <StaticRouter>
 - <Switch>
+- <Redirect>
+
+- <MemoryRouter>
+- <StaticRouter>
+- <Prompt>
 
 - history
 - location
