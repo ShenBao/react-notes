@@ -101,7 +101,7 @@
 - [react-highcharts](https://github.com/kirjs/react-highcharts)
 
 
-## my book
+## book
 
 - 《深入React技术栈》
 - 《React前端技术与工程实践》
