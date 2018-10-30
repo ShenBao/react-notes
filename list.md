@@ -69,11 +69,9 @@
 - React developer tools
 - Redux DevTools
 
-
 ## 其他
 
 - create-react-app
 - webpack的配置
 - .babelrc配置
 - Immutable.js
-

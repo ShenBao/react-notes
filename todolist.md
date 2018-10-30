@@ -1,5 +1,7 @@
 # todolist
 
+## React
+
 - React
 - JSX的使用及原理
 - 组件基本结构
@@ -11,6 +13,7 @@
 - refs
 - 高阶组件
 
+## Router
 
 - <BrowserRouter>
 - <HashRouter>
@@ -31,9 +34,13 @@
 - matchPath
 - withRouter
 
+## Redux
+
+- store
+- reducer
+- action
 
 - Redux-thunk
 - Redux-saga
 - redux-immutable
 - React-Redux
-
