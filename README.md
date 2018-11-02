@@ -17,6 +17,7 @@
 ** MobX
 - [MobX 官方文档](https://mobx.js.org/)
 - [MobX 中文文档](https://cn.mobx.js.org/)
+- [mobx-react](https://github.com/mobxjs/mobx-react)
 
 ** React Native
 - [React Native 官方文档](https://facebook.github.io/react-native/)
@@ -49,6 +50,8 @@
 
 - [redux-actions](https://github.com/redux-utilities/redux-actions)
 - [redux-observable](https://github.com/redux-observable/redux-observable):Redux-Observable是配合RxJS使用的一个框架
+- [redux-loop](https://github.com/redux-loop/redux-loop)
+
 
 ** 
 - [react-transition-group](https://reactcommunity.org/react-transition-group/)
