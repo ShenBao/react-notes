@@ -25,7 +25,7 @@
 
 ** React VR
 - [React VR 官方文档](https://facebook.github.io/react-360/)
-- [React VR 中文网](http://www.vr-react.com/#/)
+- [React VR 中文网](http://www.vr-react.com/)
 
 ** 工具
 
@@ -89,7 +89,10 @@
 - [Zent](https://youzan.github.io/zent/zh/guides/install)：有赞 PC 端 WebUI 规范的 React 实现
 - [pile Mobile](https://didi.github.io/pile.js/#/?_k=iycbqk)：滴滴 - 移动端 React 组件库
 - [react-weui](https://github.com/weui/react-weui)
-
+- [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap)
+- [reactstrap](https://github.com/reactstrap/reactstrap)
+- [Semantic-UI](https://github.com/Semantic-Org/Semantic-UI)
+- [OnsenUI](https://github.com/OnsenUI/OnsenUI)
 
 ** 
 - [ant design pro](https://pro.ant.design/index-cn): 开箱即用的中台前端/设计解决方案
