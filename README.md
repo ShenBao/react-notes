@@ -73,7 +73,7 @@
 ** 相关
 - [React.js 小书](http://huziketang.mangojuice.top/books/react/)
 - [React 模式](http://sangka-z.com/react-in-patterns-cn/)
-
+- [React 模式 (极客教程)](https://www.geekjc.com/ebook/detail/5bae0c10ddb4f437ecfdc708/1538132695121)
 
 ## 生态
 
