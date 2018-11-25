@@ -30,6 +30,7 @@
 
 ** 工具
 
+- [rekit.js](http://rekit.js.org/)
 - [create-react-app](https://facebook.github.io/create-react-app/)
 - [React developer tools](https://github.com/facebook/react-devtools)
 - [Redux DevTools](https://github.com/reduxjs/redux-devtools)
