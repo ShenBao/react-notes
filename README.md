@@ -79,6 +79,7 @@
 ## 生态
 
 - [preact](https://preactjs.com/)：React 的 3kb 轻量化方案，拥有同样的 ES6 API
+- [makajs](https://github.com/makajs): 轻量级 react 框架
 
 - [dvajs](https://dvajs.com/)：基于 React 和 redux，具有 elm 风格的轻量级框架
 
