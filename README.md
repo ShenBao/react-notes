@@ -29,7 +29,6 @@
 - [React VR 中文网](http://www.vr-react.com/)
 
 ** 工具
-
 - [rekit.js](http://rekit.js.org/)
 - [create-react-app](https://facebook.github.io/create-react-app/)
 - [React developer tools](https://github.com/facebook/react-devtools)
@@ -39,7 +38,6 @@
 
 
 ** Redux 中间件或工具
-
 - [react-redux](https://github.com/reduxjs/react-redux)
 - [Redux-thunk](https://github.com/reduxjs/redux-thunk): 指路先驱，Redux作者Dan写的中间件
 - [Redux-saga](https://github.com/reduxjs/redux-thunk)：难、而美
@@ -53,7 +51,6 @@
 - [redux-actions](https://github.com/redux-utilities/redux-actions)
 - [redux-observable](https://github.com/redux-observable/redux-observable):Redux-Observable是配合RxJS使用的一个框架
 - [redux-loop](https://github.com/redux-loop/redux-loop)
-
 
 ** 
 - [react-transition-group](https://reactcommunity.org/react-transition-group/)
@@ -91,6 +88,7 @@
 - [element-react](https://elemefe.github.io/element-react/#/zh-CN/quick-start)：饿了么 - Element UI 的 React 实现
 - [Zent](https://youzan.github.io/zent/zh/guides/install)：有赞 PC 端 WebUI 规范的 React 实现
 - [pile Mobile](https://didi.github.io/pile.js/#/?_k=iycbqk)：滴滴 - 移动端 React 组件库
+
 - [react-weui](https://github.com/weui/react-weui)
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap)
 - [reactstrap](https://github.com/reactstrap/reactstrap)
