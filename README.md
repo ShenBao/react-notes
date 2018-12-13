@@ -133,6 +133,10 @@
 
 - [react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap)
 
+##
+
+- 掘金：React企业管理系统开发指南
+
 ## book
 
 - 《深入React技术栈》

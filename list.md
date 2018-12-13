@@ -21,6 +21,8 @@
 - 纯函数、PureRender、key、raect-addons-perf
 - React的虚拟DOM、DIFF算法
 
+- Hooks
+
 ## router
 
 - 嵌套路由
