@@ -29,6 +29,9 @@
 - [React VR 官方文档](https://facebook.github.io/react-360/)
 - [React VR 中文网](http://www.vr-react.com/)
 
+** react-canvas
+- [react-canvas](https://github.com/Flipboard/react-canvas)
+
 ** 工具
 - [rekit.js](http://rekit.js.org/)
 - [create-react-app](https://facebook.github.io/create-react-app/)
