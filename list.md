@@ -6,7 +6,7 @@
 - React组件
 - React数据流
 - React：state、props、PropTypes、DefaultProps
-- React声明周期：初始化、装载、更新、卸载
+- React声明周期：初始化、装载、更新、卸载(16的变化)
 - React与DOM、refs
 - React事件：合成事件、原生事件、混合使用
 - 表单：受控、非受控、bind复用、name复用、双向绑定的实现
@@ -17,6 +17,7 @@
 - React 的 context
 - classNmae.js使用
 - UI组件和容器组件、无状态组件与有状态组件
+- React16的变化
 
 - 纯函数、PureRender、key、raect-addons-perf
 - React的虚拟DOM、DIFF算法
