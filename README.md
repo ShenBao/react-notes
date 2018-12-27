@@ -132,6 +132,9 @@
 
 - [react-highcharts](https://github.com/kirjs/react-highcharts)
 
+## 
+
+- [react-intl](https://github.com/yahoo/react-intl)
 
 ## 
 
