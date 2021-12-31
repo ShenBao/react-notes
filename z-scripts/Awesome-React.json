@@ -1,0 +1,259 @@
+[
+  {
+    "title": "react-developer-roadmap",
+    "components": [
+      "react-developer-roadmap",
+      "https://github.com/adam-golab/react-developer-roadmap"
+    ]
+  },
+  {
+    "title": "路由",
+    "components": [
+      ["react-router", "https://github.com/ReactTraining/react-router"]
+    ]
+  },
+  {
+    "title": "React Hooks 库",
+    "components": [["ahooks", "https://github.com/alibaba/hooks"]]
+  },
+  {
+    "title": "ssr",
+    "components": [["alibaba/beidou", "https://github.com/alibaba/beidou"]]
+  },
+  {
+    "title": "可视化图表",
+    "components": [
+      ["AntV 数据可视化解决方案", "https://antv.vision/zh"],
+      ["AntV 图表库", "https://g2plot.antv.vision/zh"],
+      ["BizCharts", "https://github.com/alibaba/BizCharts"],
+      ["recharts", "https://github.com/recharts/recharts/"],
+      ["viser", "https://viserjs.github.io/"]
+    ]
+  },
+
+  {
+    "title": "表单",
+    "components": [
+      ["ProForm", "https://procomponents.ant.design/components/form"],
+      ["Formily", "https://github.com/alibaba/formily"],
+      ["react-hook-form", "https://github.com/react-hook-form/react-hook-form"],
+      ["formik", "https://github.com/formium/formik"]
+    ]
+  },
+  {
+    "title": "布局",
+    "components": [
+      [
+        "react-grid-layout",
+        "https://github.com/react-grid-layout/react-grid-layout"
+      ],
+      ["react-grid-system", "https://github.com/sealninja/react-grid-system"],
+      ["rc-dock", "https://github.com/ticlo/rc-dock"]
+    ]
+  },
+  {
+    "title": "拖拽",
+    "components": [
+      [
+        "react-beautiful-dnd",
+        "https://github.com/atlassian/react-beautiful-dnd/"
+      ],
+      ["react-dnd", "https://github.com/gaearon/react-dnd"],
+      ["react-sortable-hoc", "https://github.com/clauderic/react-sortable-hoc"]
+    ]
+  },
+  {
+    "title": "代码编辑器",
+    "components": [
+      ["react-codemirror2", "https://github.com/scniro/react-codemirror2"],
+      [
+        "react-monaco-editor",
+        "https://github.com/superRaytin/react-monaco-editor"
+      ]
+    ]
+  },
+  {
+    "title": "富文本编辑器",
+    "components": [
+      ["react-quill", "https://github.com/zenoamaro/react-quill"],
+      ["braft-editor", "https://github.com/margox/braft-editor"]
+    ]
+  },
+  {
+    "title": "JSON 显示器",
+    "components": [
+      ["react-json-view", "https://github.com/mac-s-g/react-json-view"]
+    ]
+  },
+  {
+    "title": "拾色器",
+    "components": [
+      ["rc-color-picker", "https://github.com/react-component/color-picker"],
+      ["react-color", "http://casesandberg.github.io/react-color/"]
+    ]
+  },
+  {
+    "title": "响应式",
+    "components": [
+      ["react-responsive", "https://github.com/contra/react-responsive"],
+      ["react-media", "https://github.com/ReactTraining/react-media"]
+    ]
+  },
+  {
+    "title": "复制到剪贴板",
+    "components": [
+      [
+        "react-copy-to-clipboard",
+        "https://github.com/nkbt/react-copy-to-clipboard"
+      ]
+    ]
+  },
+  {
+    "title": "页面 meta 属性",
+    "components": [
+      ["react-helmet", "https://github.com/nfl/react-helmet"],
+      ["react-helmet-async", "https://github.com/staylor/react-helmet-async"]
+    ]
+  },
+  {
+    "title": "图标",
+    "components": [
+      ["react-fontawesome", "https://github.com/FortAwesome/react-fontawesome"],
+      ["react-icons", "https://github.com/gorangajic/react-icons"],
+      ["antd/icons"]
+    ]
+  },
+  {
+    "title": "二维码",
+    "components": [["qrcode.react", "https://github.com/zpao/qrcode.react"]]
+  },
+  {
+    "title": "可视化图编辑器",
+    "components": [["GGEditor", "https://github.com/gaoli/GGEditor"]]
+  },
+  {
+    "title": "顶部进度条",
+    "components": [["nprogress", "https://github.com/rstacruz/nprogress"]]
+  },
+  {
+    "title": "应用国际化",
+    "components": [["react-intl", "https://github.com/yahoo/react-intl"]]
+  },
+  {
+    "title": "代码高亮",
+    "components": [
+      [
+        "react-syntax-highlighter",
+        "https://github.com/conorhastings/react-syntax-highlighter"
+      ]
+    ]
+  },
+  {
+    "title": "Markdown 渲染",
+    "components": [
+      ["react-markdown", "https://remarkjs.github.io/react-markdown/"]
+    ]
+  },
+  {
+    "title": "无限滚动",
+    "components": [
+      ["react-virtualized", "https://github.com/bvaughn/react-virtualized"],
+      [
+        "antd-table-infinity",
+        "https://github.com/Leonard-Li777/antd-table-infinity"
+      ]
+    ]
+  },
+  {
+    "title": "地图",
+    "components": [
+      ["react-google-maps", "https://github.com/tomchentw/react-google-maps"],
+      ["google-map-react", "https://github.com/istarkov/google-map-react"],
+      ["react-amap 高德", "https://github.com/ElemeFE/react-amap"]
+    ]
+  },
+  {
+    "title": "视频播放",
+    "components": [
+      ["react-player", "https://github.com/CookPete/react-player"],
+      ["video-react", "https://github.com/video-react/video-react"],
+      ["video.js", "http://docs.videojs.com/tutorial-react.html"]
+    ]
+  },
+  {
+    "title": "右键菜单",
+    "components": [
+      ["react-contextmenu", "https://github.com/vkbansal/react-contextmenu/"],
+      ["react-contexify", "https://github.com/fkhadra/react-contexify"]
+    ]
+  },
+  {
+    "title": "Emoji",
+    "components": [["emoji-mart", "https://github.com/missive/emoji-mart"]]
+  },
+  {
+    "title": "分割面板",
+    "components": [
+      ["react-split-pane", "https://github.com/tomkp/react-split-pane"]
+    ]
+  },
+  {
+    "title": "图片裁切",
+    "components": [
+      ["antd-img-crop", "https://github.com/nanxiaobei/antd-img-crop"],
+      ["react-image-crop", "https://github.com/DominicTobias/react-image-crop"]
+    ]
+  },
+  {
+    "title": "趋势线",
+    "components": [
+      ["react-sparklines", "https://github.com/borisyankov/react-sparklines"]
+    ]
+  },
+  {
+    "title": "关键字高亮",
+    "components": [
+      [
+        "react-highlight-words",
+        "https://github.com/bvaughn/react-highlight-words"
+      ]
+    ]
+  },
+  {
+    "title": "文字轮播",
+    "components": [
+      ["react-text-loop", "https://github.com/braposo/react-text-loop"]
+    ]
+  },
+  {
+    "title": "动画",
+    "components": [
+      ["react-move", "https://github.com/react-tools/react-move"],
+      ["Ant Motion", "https://motion.ant.design/components/tween-one"],
+      ["react-spring", "https://www.react-spring.io"]
+    ]
+  },
+  {
+    "title": "virtual-list",
+    "components": [
+      [
+        "react-tiny-virtual-list",
+        "https://github.com/clauderic/react-tiny-virtual-list"
+      ],
+      [
+        "react-virtual-list",
+        "https://github.com/developerdizzle/react-virtual-list"
+      ]
+    ]
+  },
+  {
+    "title": "暂未分类",
+    "components": [
+      ["react-docgen", "https://github.com/reactjs/react-docgen"],
+      ["render-if", "https://github.com/ajwhite/render-if"],
+      ["react-only-if", "https://github.com/MicheleBertoli/react-only-if"],
+      ["react-motion", "https://github.com/chenglou/react-motio"],
+      ["react-joyride", "https://github.com/gilbarbara/react-joyride"]
+    ]
+  }
+]
