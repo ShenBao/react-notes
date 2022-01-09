@@ -42,6 +42,10 @@
 | 文字轮播 | [react-text-loop](https://github.com/braposo/react-text-loop) |
 | 动画 | [react-move](https://github.com/react-tools/react-move)<br/>[Ant Motion](https://motion.ant.design/components/tween-one)<br/>[react-spring](https://www.react-spring.io) |
 
+
+- [react-fullpage](https://github.com/alvarotrigo/react-fullpage)
+
+
 ## More links
 
 - [GitHub Home](https://github.com/ShenBao)
