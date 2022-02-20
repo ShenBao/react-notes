@@ -855,7 +855,7 @@ class MyComponent extends React.Component {
 
 ## 46. 什么是渲染 props？
 
-**渲染 props**是一种简单的技术，使用一个 props 在组件之间共享代码，其值是一个函数。下面的组件使用渲染 props，它返回一个 React 元素。
+**渲染 props** 是一种简单的技术，使用一个 props 在组件之间共享代码，其值是一个函数。下面的组件使用渲染 props，它返回一个 React 元素。
 
 ```jsx | pure
 <DataProvider render={data => <h1>{`Hello ${data.target}`}</h1>} />

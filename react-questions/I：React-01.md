@@ -180,13 +180,13 @@ this.state.message = 'Hello world';
 this.setState({ message: 'Hello World' });
 ```
 
-> **注意：**你可以使用构造函数或者最新的 javascript class 字段声明语法直接将其分配给状态对象。
+> **注意：** 你可以使用构造函数或者最新的 javascript class 字段声明语法直接将其分配给状态对象。
 
 ## 12. 回调函数作为 `setState()` 的参数的目的是什么？
 
 setState 完成并重新渲染组件后，将调用回调函数。由于 setState() 是异步的，因此回调函数可用于任何后续操作。
 
-> **注意：**我们建议使用生命周期方法而不是这个回调函数
+> **注意：** 我们建议使用生命周期方法而不是这个回调函数
 
 ```javascript
 setState({ name: 'John' }, () =>
@@ -441,7 +441,7 @@ class MyComponent extends Component {
 
 ## 23. 为什么 Strings Refs 被遗弃了？
 
-如果你以前使用过 React，那么你可能会熟悉一个较旧的 API，其中的`ref` 属性是一个字符串，例如 `ref = {textInput'}`，并且 DOM 节点作为`this.refs.textInput` 访问。我们建议你不要这样做，因为 String 引用有以下问题，并且被认为是旧版的。字符串引用已经在 **React v16 中被删除**。
+如果你以前使用过 React，那么你可能会熟悉一个较旧的 API，其中的`ref` 属性是一个字符串，例如 `ref = {textInput}`，并且 DOM 节点作为`this.refs.textInput` 访问。我们建议你不要这样做，因为 String 引用有以下问题，并且被认为是旧版的。字符串引用已经在 **React v16 中被删除**。
 
 1. 他们迫使 React 跟踪当前正在执行的组件。这是有问题的，因为它使 React 模块成为有状态的，并因此在打包 React 模块时冲突而引起奇怪的错误。
 2. 它们是“不可组合的” — 如果库在传递的子项上放置了引用，则用户不能在其上放置其他引用。回调引用完全可以组合。

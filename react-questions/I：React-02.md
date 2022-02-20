@@ -302,7 +302,7 @@ React v15 使用 `unstable_handleError` 方法为错误边界提供了非常基�
 
 此方法用于将 React 元素渲染到提供的容器中的 DOM 中，并返回对组件的引用。如果 React 元素之前已渲染到容器中，它将对其执行更新，并且仅在必要时更改 DOM 以反映最新更改。
 
-```jsx | pure
+```jsx
 ReactDOM.render(element, container[, callback])
 ```
 
